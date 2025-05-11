@@ -22,3 +22,6 @@ Where **average ticket** = the total amount spent per order for each customer.
 - **Country** – Country where the purchase was made.
 
 Download data: **https://drive.google.com/file/d/17PmIG1mmy8vSeHcL8w-sVDt5U-TcM1hX/view?usp=sharing**
+
+
+![panel](https://github.com/user-attachments/assets/f486105e-bf3a-4352-af32-9c624d4f9fbe)
